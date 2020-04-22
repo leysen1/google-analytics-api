@@ -1,0 +1,10 @@
+google
+(direct)
+m.facebook.com
+instagram.com
+l.instagram.com
+facebook.com
+bing
+localhost:8888
+l.facebook.com
+t.co

@@ -1,0 +1,8 @@
+main: "notebook.ipynb"
+preview: "images/preview.png"
+title: "Google Analytics Reporting API"
+description: "This notebook takes you through connecting with the Google Analytics Reporting API. Pulling the data and converting into table format, then visualising the result on a chart."
+tags:
+  - google analytics
+  - api
+  - googleanalytics
