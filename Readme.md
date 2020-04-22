@@ -1,49 +1,15 @@
-# This is the template for the Kyso templates 😉
+#  Google Analytics Reporting API
 
-This is a baseline project that you can use to get started writing a Kyso template.
+## Tutorial on Install Google API Client
 
-## Installation
+This notebook takes you through connecting with the Google Analytics Reporting API. Pulling the data and converting into table format, then visualising the result on a chart.
 
-Git clone this repository:
+### Walkthrough to connect to the API:
+Google Developer: https://developers.google.com/analytics/devguides/reporting/core/v4/quickstart/service-py
+Other Walkthrough: https://www.jcchouinard.com/google-analytics-api-using-python/
 
-```
-git clone https://github.com/kyso-io/template
-```
-
-Download and install the [Anaconda Python distribution](https://www.anaconda.com/distribution/).
-Then active a conda virtual environment with
-
-```
-conda env create -f environment.yml
-conda activate dev
-```
-
-## Installing libraries
-
-Install any libraries you need with
-
-```
-conda install <library>
-```
-
-Make sure to run the following command to save the installed libraries into the environment.yml file,
-this allows others to run the report easily
-
-```
-conda env export --no-builds > environment.yml
-```
-
-## Usage
-
-Start programming! Open jupyter with
-
-```
-jupyter lab
-```
-
-And start working.
-
-## Sharing
-
-Push to Github and import into Kyso.
+### Required Installations:
+conda install -c conda-forge google-api-python-client
+pip install --upgrade google-api-python-client
+pip3 install --upgrade oauth2client
 
