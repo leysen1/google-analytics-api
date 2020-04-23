@@ -1,7 +1,7 @@
 main: "notebook.ipynb"
 preview: "images/preview.png"
-title: "Google Analytics Reporting API"
-description: "This notebook takes you through connecting with the Google Analytics Reporting API. Pulling the data and converting into table format, then visualising the result on a chart."
+title: "Analysing SEO with Google Analytics"
+description: "Google Analytics is a website traffic analysis application that provides real-time statistics and analysis of user interaction with the website. Google analytics enables website owners to analyze their visitors, with the objective of interpreting and optimizing website's performance. In this report we will learn how to pull in the data using the Google Analytics Reporting API and graph the results to show meaningful insights."
 tags:
   - google analytics
   - api
