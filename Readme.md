@@ -19,12 +19,6 @@ jupyter labextension install jupyterlab-plotly
 
 ## Usage
 
-Make sure to define your Mongo connection url with
-
-```
-export MONGO_CONNECTION_URL="YOUR_CONNECTION_STRING"
-```
-
 Start programming! Open jupyter with
 
 ```
